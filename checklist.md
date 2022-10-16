@@ -1,8 +1,8 @@
 # Control
 - [ ] Button mappings(roll, jump, stop)
-  - [ ] WASD
-  - [ ] Arrow
-- [ ] Rotation Q, E
+  - [x] WASD
+  - [x] Arrow
+- [x] Rotation Q, E
 - [ ] 0: stop ball
 - [ ] 5: starts the game
 - [ ] 6: stops the game
