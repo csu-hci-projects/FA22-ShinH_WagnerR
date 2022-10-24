@@ -2630,3 +2630,261 @@ Continue: Skip saving this asset only.
 [2022.10.23-22.51.26:657][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.10.23-22.51.26:659][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
 [2022.10.23-22.51.26:700][758]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.10.23-22.52.01:320][699]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.23-22.52.01:354][699]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_BallGame_4.Level_BallGame_4
+[2022.10.23-22.52.01:354][699]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.23-22.52.01:354][699]LightingResults: New page: Lighting Build
+[2022.10.23-22.52.01:354][699]LoadErrors: New page: Loading map: Level_BallGame_4.umap
+[2022.10.23-22.52.01:356][699]LogWorld: UWorld::CleanupWorld for Level_BallGame_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-22.52.01:356][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-22.52.01:357][699]MapCheck: New page: Map Check
+[2022.10.23-22.52.01:357][699]LightingResults: New page: Lighting Build
+[2022.10.23-22.52.01:377][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.23-22.52.01:380][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.23-22.52.01:382][699]LogWorld: UWorld::CleanupWorld for Level_BallGame_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-22.52.01:382][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-22.52.01:382][699]LogWorld: UWorld::CleanupWorld for Level_BallGame_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.23-22.52.01:382][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.23-22.52.01:406][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.10.23-22.52.01:427][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.23-22.52.01:431][699]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_BallGame_4'.
+[2022.10.23-22.52.01:431][699]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.23-22.52.01:431][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-22.52.01:432][699]LogAIModule: Creating AISystem for world Level_BallGame_4
+[2022.10.23-22.52.01:461][699]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.23-22.52.01:486][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.10.23-22.52.01:495][699]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.23-22.52.01:495][699]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2022.10.23-22.52.01:495][699]LogFileHelpers: Loading map 'Level_BallGame_4' took 0.141
+[2022.10.23-22.52.04:163][855]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level_BallGame_4.Level_BallGame_4:PersistentLevel.Level_BallGame
+[2022.10.23-22.52.04:163][855]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.23-22.52.16:117][527]LogEditorTransaction: Undo Delete current selection
+[2022.10.23-22.52.22:407][896]BlueprintLog: New page: Compile Level_BallGame
+[2022.10.23-22.52.22:442][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.10.23-22.52.22:960][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_BallGame_4" FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.23-22.52.22:988][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.23-22.52.23:003][925]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_4
+[2022.10.23-22.52.23:004][925]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Level_BallGame_4B490365D40AF73CFA03F32AE421B2078.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap'
+[2022.10.23-22.52.23:016][925]LogFileHelpers: Saving map 'Level_BallGame_4' took 0.057
+[2022.10.23-22.52.23:028][925]AssetCheck: New page: Asset Save: Level_BallGame_4
+[2022.10.23-22.52.23:028][925]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_4.Level_BallGame_4
+[2022.10.23-22.52.25:499][ 71]LogSlate: Window 'Level_BallGame' being destroyed
+[2022.10.23-22.52.28:594][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.23-22.52.44:335][765]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2022.10.24-01.52.44:228][766]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=21680
+[2022.10.24-01.52.45:332][766]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{f2913c28-41d3-4834-a297-6e10588389b7}, Name=Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=248.18
+[2022.10.24-01.52.45:332][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.10.24-01.52.45:342][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.24-01.52.45:817][769]LogHttp: Warning: 00000503533B3C00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B33FAD74F-4B61-35BF-3B4C-63AD22BB2ED7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0dc7c7ec48b137f22d410fb11b8f3053%7C0cb2e6bcef1c4b368872f5714a900b3d%7C34975f1c-5da7-4601-bed9-0117de6dcbb8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-01.52.45:817][769]LogHttp: Warning: 00000503533B3C00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.24-01.52.45:817][769]LogHttp: Warning: 00000503533B3C00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x5030e0c0000 [can pipeline])
+[2022.10.24-01.52.45:817][769]LogHttp: Warning: 00000503533B3C00: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.10.24-01.52.45:818][769]LogHttp: Warning: 00000503533B3C00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.194.91.38) port 443 (#0))
+[2022.10.24-01.52.45:818][769]LogHttp: Warning: 00000503533B3C00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.24-01.52.45:818][769]LogHttp: Warning: 00000503533B3C00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.24-01.52.45:818][769]LogHttp: Warning: 00000503533B3C00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.24-01.52.45:818][769]LogHttp: Warning: 00000503533B3C00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.24-01.52.45:818][769]LogHttp: Warning: 00000503533B3C00: libcurl info message cache 7 (Closing connection 0)
+[2022.10.24-01.52.45:818][769]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B33FAD74F-4B61-35BF-3B4C-63AD22BB2ED7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=0dc7c7ec48b137f22d410fb11b8f3053%7C0cb2e6bcef1c4b368872f5714a900b3d%7C34975f1c-5da7-4601-bed9-0117de6dcbb8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-02.01.56:770][185]BlueprintLog: New page: Compile Level_BallGame
+[2022.10.24-02.01.56:815][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.24-02.01.57:462][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_BallGame_4" FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.24-02.01.57:489][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.24-02.01.57:502][222]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_4
+[2022.10.24-02.01.57:503][222]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Level_BallGame_4DDEBCFC14439BEB131368788FE1024D5.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap'
+[2022.10.24-02.01.57:515][222]LogFileHelpers: Saving map 'Level_BallGame_4' took 0.054
+[2022.10.24-02.01.57:531][222]AssetCheck: New page: Asset Save: Level_BallGame_4
+[2022.10.24-02.01.57:531][222]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_4.Level_BallGame_4
+[2022.10.24-02.02.04:089][608]Cmd: DELETE
+[2022.10.24-02.02.04:089][608]Cmd: ACTOR DELETE
+[2022.10.24-02.02.04:091][608]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.24-02.02.04:122][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.10.24-02.02.04:124][608]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2022.10.24-02.02.07:230][791]Cmd: DELETE
+[2022.10.24-02.02.07:230][791]Cmd: ACTOR DELETE
+[2022.10.24-02.02.07:232][791]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.10.24-02.02.07:258][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.24-02.02.07:260][791]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2022.10.24-02.02.20:345][570]LogDerivedDataCache: C:/Users/rachw/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.339 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.24-02.03.06:801][313]Cmd: TRANSACTION UNDO
+[2022.10.24-02.03.06:801][313]LogEditorTransaction: Undo Move Elements
+[2022.10.24-02.03.35:443][  3]Cmd: DUPLICATE
+[2022.10.24-02.03.35:443][  3]Cmd: ACTOR DUPLICATE
+[2022.10.24-02.04.29:666][207]Cmd: DUPLICATE
+[2022.10.24-02.04.29:666][207]Cmd: ACTOR DUPLICATE
+[2022.10.24-02.04.43:782][ 32]Cmd: DUPLICATE
+[2022.10.24-02.04.43:782][ 32]Cmd: ACTOR DUPLICATE
+[2022.10.24-02.05.33:282][926]Cmd: DUPLICATE
+[2022.10.24-02.05.33:282][926]Cmd: ACTOR DUPLICATE
+[2022.10.24-02.06.34:773][577]Cmd: DUPLICATE
+[2022.10.24-02.06.34:773][577]Cmd: ACTOR DUPLICATE
+[2022.10.24-02.07.20:733][303]Cmd: DUPLICATE
+[2022.10.24-02.07.20:733][303]Cmd: ACTOR DUPLICATE
+[2022.10.24-02.08.13:024][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_BallGame_4" FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.24-02.08.13:062][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.10.24-02.08.13:080][395]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_4
+[2022.10.24-02.08.13:080][395]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Level_BallGame_4935FF95C46A061DE79A68991CBDE72CC.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap'
+[2022.10.24-02.08.13:105][395]AssetCheck: New page: Asset Save: Level_BallGame_4
+[2022.10.24-02.08.13:105][395]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_4.Level_BallGame_4
+[2022.10.24-02.08.14:204][461]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.24-02.08.14:213][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.24-02.08.14:213][461]PIE: New page: PIE session: Level_BallGame_4 (Oct 23, 2022, 2:08:14 PM)
+[2022.10.24-02.08.14:213][461]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_BallGame_4
+[2022.10.24-02.08.14:218][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005003s)
+[2022.10.24-02.08.14:218][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_BallGame_4.Level_BallGame_4 to /Game/Maps/UEDPIE_0_Level_BallGame_4.Level_BallGame_4 (0.005076s)
+[2022.10.24-02.08.14:218][461]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-02.08.14:219][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-02.08.14:220][461]LogAIModule: Creating AISystem for world Level_BallGame_4
+[2022.10.24-02.08.14:221][461]LogPlayLevel: PIE: World Init took: (0.002687s)
+[2022.10.24-02.08.14:247][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.10.24-02.08.14:250][461]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.10.24-02.08.14:250][461]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.24-02.08.14:250][461]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.24-02.08.14:250][461]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.24-02.08.14:250][461]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.24-02.08.14:250][461]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.24-02.08.14:250][461]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.24-02.08.14:250][461]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.24-02.08.14:250][461]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.24-02.08.14:251][461]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.24-02.08.14:251][461]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.24-02.08.14:251][461]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.24-02.08.14:254][461]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.24-02.08.14:310][461]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.10.24-02.08.14:311][461]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.24-02.08.14:311][461]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.24-02.08.14:311][461]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.24-02.08.14:313][461]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.10.24-02.08.14:313][461]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=11
+[2022.10.24-02.08.14:314][461]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.10.24-02.08.14:314][461]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.10.24-02.08.14:314][461]LogInit: FAudioDevice initialized.
+[2022.10.24-02.08.14:314][461]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_BallGame_4'.
+[2022.10.24-02.08.14:325][461]LogLoad: Game class is 'GM_Speedball_C'
+[2022.10.24-02.08.14:326][461]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_BallGame_4.Level_BallGame_4 up for play (max tick rate 60) at 2022.10.23-20.08.14
+[2022.10.24-02.08.14:327][461]LogWorld: Bringing up level for play took: 0.001102
+[2022.10.24-02.08.14:329][461]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2022.10.24-02.08.14:332][461]PIE: Server logged in
+[2022.10.24-02.08.14:332][461]PIE: Play in editor total start time 0.12 seconds.
+[2022.10.24-02.08.23:401][  2]LogBlueprintUserMessages: [BP_RateStar_C_1] Collected Points 10
+[2022.10.24-02.08.46:631][395]LogNet: Browse: /Game/Maps/Level_BallGame_3
+[2022.10.24-02.08.46:636][395]LogLoad: LoadMap: /Game/Maps/Level_BallGame_3
+[2022.10.24-02.08.46:636][395]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_BallGame_4
+[2022.10.24-02.08.46:637][395]LogWorld: UWorld::CleanupWorld for Level_BallGame_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-02.08.46:638][395]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-02.08.46:700][395]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.24-02.08.46:703][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.24-02.08.46:716][395]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level_BallGame_3'.
+[2022.10.24-02.08.46:716][395]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-02.08.46:716][395]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-02.08.46:716][395]LogAIModule: Creating AISystem for world Level_BallGame_3
+[2022.10.24-02.08.46:717][395]LogPlayLevel: PIE: World Init took: (0.000620s)
+[2022.10.24-02.08.46:717][395]LogLoad: Game class is 'GM_Speedball_C'
+[2022.10.24-02.08.46:721][395]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_BallGame_3.Level_BallGame_3 up for play (max tick rate 60) at 2022.10.23-20.08.46
+[2022.10.24-02.08.46:721][395]LogWorld: Bringing up level for play took: 0.004611
+[2022.10.24-02.08.46:722][395]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.24-02.08.46:723][395]LogLoad: Took 0.086558 seconds to LoadMap(/Game/Maps/Level_BallGame_3)
+[2022.10.24-02.08.50:982][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-02.08.50:983][649]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_BallGame_3
+[2022.10.24-02.08.50:983][649]LogWorld: UWorld::CleanupWorld for Level_BallGame_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-02.08.50:983][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-02.08.50:997][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.24-02.08.51:000][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-02.08.51:028][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-02.08.51:029][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.10.24-02.08.51:030][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.10.24-02.08.51:058][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.10.24-02.08.51:102][650]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.10.24-02.09.21:342][430]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_FloatingSphere.BP_FloatingSphere_C
+[2022.10.24-02.09.21:342][430]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_FloatingSphere.BP_FloatingSphere_C
+[2022.10.24-02.09.21:346][430]LogActorFactory: Actor Factory spawned Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_FloatingSphere.BP_FloatingSphere as actor: BP_FloatingSphere_C /Game/Maps/Level_BallGame_4.Level_BallGame_4:PersistentLevel.BP_FloatingSphere_C_0
+[2022.10.24-02.09.21:350][430]LogActorFactory: Actor Factory spawned Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_FloatingSphere.BP_FloatingSphere as actor: BP_FloatingSphere_C /Game/Maps/Level_BallGame_4.Level_BallGame_4:PersistentLevel.BP_FloatingSphere_C_0
+[2022.10.24-02.09.23:435][552]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_FloatingSphere.BP_FloatingSphere_C
+[2022.10.24-02.09.23:435][552]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_FloatingSphere.BP_FloatingSphere_C
+[2022.10.24-02.09.23:439][552]LogActorFactory: Actor Factory spawned Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_FloatingSphere.BP_FloatingSphere as actor: BP_FloatingSphere_C /Game/Maps/Level_BallGame_4.Level_BallGame_4:PersistentLevel.BP_FloatingSphere_C_1
+[2022.10.24-02.09.23:444][552]LogActorFactory: Actor Factory spawned Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_FloatingSphere.BP_FloatingSphere as actor: BP_FloatingSphere_C /Game/Maps/Level_BallGame_4.Level_BallGame_4:PersistentLevel.BP_FloatingSphere_C_1
+[2022.10.24-02.09.44:153][776]Cmd: DUPLICATE
+[2022.10.24-02.09.44:153][776]Cmd: ACTOR DUPLICATE
+[2022.10.24-02.10.04:744][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_BallGame_4" FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.24-02.10.04:777][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.10.24-02.10.04:797][981]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_4
+[2022.10.24-02.10.04:798][981]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Level_BallGame_47D3637DF47D24838F87E369DA53C6C19.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap'
+[2022.10.24-02.10.04:821][981]AssetCheck: New page: Asset Save: Level_BallGame_4
+[2022.10.24-02.10.04:821][981]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_4.Level_BallGame_4
+[2022.10.24-02.10.05:645][ 31]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.24-02.10.05:654][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.24-02.10.05:654][ 31]PIE: New page: PIE session: Level_BallGame_4 (Oct 23, 2022, 2:10:05 PM)
+[2022.10.24-02.10.05:681][ 31]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_BallGame_4
+[2022.10.24-02.10.05:685][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003833s)
+[2022.10.24-02.10.05:685][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_BallGame_4.Level_BallGame_4 to /Game/Maps/UEDPIE_0_Level_BallGame_4.Level_BallGame_4 (0.003919s)
+[2022.10.24-02.10.05:685][ 31]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-02.10.05:685][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-02.10.05:686][ 31]LogAIModule: Creating AISystem for world Level_BallGame_4
+[2022.10.24-02.10.05:686][ 31]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2022.10.24-02.10.05:713][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.10.24-02.10.05:714][ 31]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.10.24-02.10.05:714][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.24-02.10.05:714][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.24-02.10.05:714][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.24-02.10.05:714][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.24-02.10.05:714][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.24-02.10.05:714][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.24-02.10.05:714][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.24-02.10.05:714][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.24-02.10.05:715][ 31]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.24-02.10.05:715][ 31]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.24-02.10.05:715][ 31]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.24-02.10.05:717][ 31]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.24-02.10.05:768][ 31]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2022.10.24-02.10.05:768][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.24-02.10.05:768][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.24-02.10.05:768][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.24-02.10.05:769][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.10.24-02.10.05:770][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=12
+[2022.10.24-02.10.05:771][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.10.24-02.10.05:771][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.10.24-02.10.05:771][ 31]LogInit: FAudioDevice initialized.
+[2022.10.24-02.10.05:771][ 31]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_BallGame_4'.
+[2022.10.24-02.10.05:780][ 31]LogLoad: Game class is 'GM_Speedball_C'
+[2022.10.24-02.10.05:781][ 31]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_BallGame_4.Level_BallGame_4 up for play (max tick rate 60) at 2022.10.23-20.10.05
+[2022.10.24-02.10.05:781][ 31]LogWorld: Bringing up level for play took: 0.001360
+[2022.10.24-02.10.05:784][ 31]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2022.10.24-02.10.05:785][ 31]PIE: Server logged in
+[2022.10.24-02.10.05:786][ 31]PIE: Play in editor total start time 0.133 seconds.
+[2022.10.24-02.10.14:551][554]LogBlueprintUserMessages: [BP_RateStar_C_1] Collected Points 10
+[2022.10.24-02.10.24:380][143]LogNet: Browse: /Game/Maps/Level_BallGame_3
+[2022.10.24-02.10.24:380][143]LogLoad: LoadMap: /Game/Maps/Level_BallGame_3
+[2022.10.24-02.10.24:380][143]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_BallGame_4
+[2022.10.24-02.10.24:380][143]LogWorld: UWorld::CleanupWorld for Level_BallGame_4, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-02.10.24:380][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-02.10.24:463][143]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.24-02.10.24:465][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.10.24-02.10.24:477][143]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_BallGame_3'.
+[2022.10.24-02.10.24:477][143]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-02.10.24:477][143]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-02.10.24:477][143]LogAIModule: Creating AISystem for world Level_BallGame_3
+[2022.10.24-02.10.24:478][143]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2022.10.24-02.10.24:478][143]LogLoad: Game class is 'GM_Speedball_C'
+[2022.10.24-02.10.24:482][143]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_BallGame_3.Level_BallGame_3 up for play (max tick rate 60) at 2022.10.23-20.10.24
+[2022.10.24-02.10.24:483][143]LogWorld: Bringing up level for play took: 0.004892
+[2022.10.24-02.10.24:483][143]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.24-02.10.24:484][143]LogLoad: Took 0.103795 seconds to LoadMap(/Game/Maps/Level_BallGame_3)
+[2022.10.24-02.10.26:783][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-02.10.26:783][279]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Level_BallGame_3
+[2022.10.24-02.10.26:783][279]LogWorld: UWorld::CleanupWorld for Level_BallGame_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-02.10.26:783][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-02.10.26:792][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.24-02.10.26:796][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-02.10.26:823][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-02.10.26:823][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.10.24-02.10.26:825][279]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.10.24-02.10.26:846][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.24-02.10.26:890][280]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.10.24-02.10.54:998][931]Cmd: TRANSACTION UNDO
+[2022.10.24-02.10.54:998][931]LogEditorTransaction: Undo Move Elements
+[2022.10.24-02.11.03:867][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_BallGame_4" FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.10.24-02.11.03:898][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.10.24-02.11.03:919][451]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_4
+[2022.10.24-02.11.03:920][451]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Level_BallGame_4C0EC8D83469AF8A42A3181988E3D8F9E.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap'
+[2022.10.24-02.11.03:943][451]AssetCheck: New page: Asset Save: Level_BallGame_4
+[2022.10.24-02.11.03:943][451]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_4.Level_BallGame_4
