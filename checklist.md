@@ -12,7 +12,7 @@
 - [ ] Additional input devices 
 
 # Levels
-- [ ] 5 levels
+- [x] 5 levels
 
 # Winning and Losing
 - [ ] Way to win
@@ -22,17 +22,17 @@
     - [ ] restart from Level 1
     - [ ] Continue screen to strat at the beginning of your level
 # Collectables
-- [ ] interactable object
+- [x] interactable object
 
 # Health
 - [ ] Health scale
   - [ ] When your health status is 0, lose one life
 - [ ] Method of losing health
   - [ ] fall into the void, lose a life regardless current health
-- [ ] Method of increasing health
+- [x] Method of increasing health
 
 # Resqawn
-- [ ] set respawn point with full health
+- [x] set respawn point with full health
 
 # Game difficulty
 - [ ] easy / medium / hard
@@ -47,6 +47,6 @@
 - [ ] display previous player's maximum score
 
 # Sound effects
-- [ ] collecting items
+- [x] collecting items
 - [ ] bomb
-- [ ] damage being taken
+- [x] damage being taken
