@@ -11576,3 +11576,18 @@ Recommended: 516.25
 [2022.11.08-21.57.20:491][734]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Level_BallGame_2F8A8D0FF496DF57B5FC3DBAEFE6F39D4.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_2.umap'
 [2022.11.08-21.57.20:517][734]AssetCheck: New page: Asset Save: Level_BallGame_2
 [2022.11.08-21.57.20:517][734]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_2.Level_BallGame_2
+[2022.11.08-21.58.02:347][249]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level_BallGame_2.Level_BallGame_2:PersistentLevel.Level_BallGame_2
+[2022.11.08-21.58.02:348][249]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.08-21.58.21:676][379]BlueprintLog: New page: Compile Level_BallGame_2
+[2022.11.08-21.58.21:782][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.11.08-21.58.22:834][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_BallGame_2" FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.08-21.58.22:876][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.08-21.58.22:949][439]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_2
+[2022.11.08-21.58.22:950][439]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Level_BallGame_2D33946D14B70C29B203B70A61A4212C5.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_2.umap'
+[2022.11.08-21.58.22:963][439]LogFileHelpers: Saving map 'Level_BallGame_2' took 0.129
+[2022.11.08-21.58.22:974][439]AssetCheck: New page: Asset Save: Level_BallGame_2
+[2022.11.08-21.58.22:974][439]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_2.Level_BallGame_2
+[2022.11.08-21.58.25:058][562]LogSlate: Window 'Level_BallGame' being destroyed
+[2022.11.08-21.58.25:064][562]LogSlate: Window 'Level_BallGame' being destroyed
+[2022.11.08-21.58.25:100][562]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.11.08-21.58.25:100][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
