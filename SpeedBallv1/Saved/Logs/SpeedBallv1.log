@@ -4113,3 +4113,132 @@ Recommended: 516.25
 [2022.11.10-22.50.12:886][228]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_5D5B982C441807EA0048304BB8D7DC05F.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_5.umap'
 [2022.11.10-22.50.12:920][228]AssetCheck: New page: Asset Save: Hard_Level_BallGame_5
 [2022.11.10-22.50.12:920][228]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_5.Hard_Level_BallGame_5
+[2022.11.10-22.50.37:195][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.10-22.50.37:384][523]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1
+[2022.11.10-22.50.37:384][523]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.50.37:384][523]LightingResults: New page: Lighting Build
+[2022.11.10-22.50.37:384][523]LoadErrors: New page: Loading map: Hard_Level_BallGame_1.umap
+[2022.11.10-22.50.37:410][523]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.50.37:410][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.50.37:411][523]MapCheck: New page: Map Check
+[2022.11.10-22.50.37:411][523]LightingResults: New page: Lighting Build
+[2022.11.10-22.50.37:443][523]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.50.37:505][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.10-22.50.37:525][523]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.50.37:526][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.50.37:555][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.10-22.50.37:580][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.10-22.50.37:616][523]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_Level_BallGame_1'.
+[2022.11.10-22.50.37:616][523]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.50.37:616][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.50.37:617][523]LogAIModule: Creating AISystem for world Hard_Level_BallGame_1
+[2022.11.10-22.50.37:817][523]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.50.37:849][523]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.10-22.50.37:860][523]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.50.37:860][523]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2022.11.10-22.50.37:860][523]LogFileHelpers: Loading map 'Hard_Level_BallGame_1' took 0.477
+[2022.11.10-22.50.50:305][248]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.50.50:305][248]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.50.50:307][248]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1:PersistentLevel.HealthItem_C_0
+[2022.11.10-22.50.50:309][248]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1:PersistentLevel.HealthItem_C_0
+[2022.11.10-22.50.52:767][394]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.50.52:767][394]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.50.52:769][394]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1:PersistentLevel.HealthItem_C_1
+[2022.11.10-22.50.52:771][394]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1:PersistentLevel.HealthItem_C_1
+[2022.11.10-22.50.57:134][650]Cmd: DELETE
+[2022.11.10-22.50.57:134][650]Cmd: ACTOR DELETE
+[2022.11.10-22.50.57:140][650]LogEditorActor: Deleted Actor: HealthItem_C
+[2022.11.10-22.50.57:165][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.10-22.50.57:172][650]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.11.10-22.50.57:657][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.10-22.50.57:729][676]LogSavePackage: Moving output files for package: /Game/Maps/Hard_Level_BallGame_1
+[2022.11.10-22.50.57:730][676]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_1C7EFD379470C9E8CCAE920A2F707AA4F.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_1.umap'
+[2022.11.10-22.50.57:757][676]AssetCheck: New page: Asset Save: Hard_Level_BallGame_1
+[2022.11.10-22.50.57:757][676]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1
+[2022.11.10-22.51.03:207][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.03:207][998]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.03:209][998]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1:PersistentLevel.HealthItem_C_2
+[2022.11.10-22.51.03:211][998]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1:PersistentLevel.HealthItem_C_2
+[2022.11.10-22.51.05:374][127]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.05:374][127]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.05:376][127]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1:PersistentLevel.HealthItem_C_3
+[2022.11.10-22.51.05:377][127]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1:PersistentLevel.HealthItem_C_3
+[2022.11.10-22.51.08:242][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.10-22.51.08:308][292]LogSavePackage: Moving output files for package: /Game/Maps/Hard_Level_BallGame_1
+[2022.11.10-22.51.08:309][292]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_1119FC64945B15E99A20377B772BF6CB6.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_1.umap'
+[2022.11.10-22.51.08:333][292]AssetCheck: New page: Asset Save: Hard_Level_BallGame_1
+[2022.11.10-22.51.08:333][292]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1
+[2022.11.10-22.51.21:178][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.11.10-22.51.21:450][ 59]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2
+[2022.11.10-22.51.21:450][ 59]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.51.21:451][ 59]LightingResults: New page: Lighting Build
+[2022.11.10-22.51.21:451][ 59]LoadErrors: New page: Loading map: Hard_Level_BallGame_2.umap
+[2022.11.10-22.51.21:456][ 59]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.51.21:457][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.51.21:457][ 59]MapCheck: New page: Map Check
+[2022.11.10-22.51.21:457][ 59]LightingResults: New page: Lighting Build
+[2022.11.10-22.51.21:484][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.51.21:493][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.11.10-22.51.21:497][ 59]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.51.21:499][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.51.21:530][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.10-22.51.21:554][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.10-22.51.21:606][ 59]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_Level_BallGame_2'.
+[2022.11.10-22.51.21:606][ 59]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.51.21:606][ 59]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.51.21:607][ 59]LogAIModule: Creating AISystem for world Hard_Level_BallGame_2
+[2022.11.10-22.51.21:900][ 59]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.51.21:944][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.10-22.51.21:957][ 59]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.51.21:957][ 59]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2022.11.10-22.51.21:957][ 59]LogFileHelpers: Loading map 'Hard_Level_BallGame_2' took 0.507
+[2022.11.10-22.51.32:142][657]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.32:142][657]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.32:144][657]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2:PersistentLevel.HealthItem_C_0
+[2022.11.10-22.51.32:146][657]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2:PersistentLevel.HealthItem_C_0
+[2022.11.10-22.51.33:684][748]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.33:684][748]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.33:687][748]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2:PersistentLevel.HealthItem_C_1
+[2022.11.10-22.51.33:688][748]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2:PersistentLevel.HealthItem_C_1
+[2022.11.10-22.51.37:902][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.11.10-22.51.37:998][994]LogSavePackage: Moving output files for package: /Game/Maps/Hard_Level_BallGame_2
+[2022.11.10-22.51.37:999][994]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_201726C1F42829F90C7B20FA9E07A176C.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_2.umap'
+[2022.11.10-22.51.38:025][994]AssetCheck: New page: Asset Save: Hard_Level_BallGame_2
+[2022.11.10-22.51.38:025][994]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2
+[2022.11.10-22.51.41:993][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.10-22.51.42:452][227]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3
+[2022.11.10-22.51.42:452][227]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.51.42:452][227]LightingResults: New page: Lighting Build
+[2022.11.10-22.51.42:452][227]LoadErrors: New page: Loading map: Hard_Level_BallGame_3.umap
+[2022.11.10-22.51.42:459][227]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.51.42:459][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.51.42:460][227]MapCheck: New page: Map Check
+[2022.11.10-22.51.42:460][227]LightingResults: New page: Lighting Build
+[2022.11.10-22.51.42:485][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.51.42:504][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.11.10-22.51.42:510][227]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.51.42:515][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.51.42:551][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.11.10-22.51.42:574][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.10-22.51.42:662][227]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_Level_BallGame_3'.
+[2022.11.10-22.51.42:662][227]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.51.42:662][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.51.42:662][227]LogAIModule: Creating AISystem for world Hard_Level_BallGame_3
+[2022.11.10-22.51.43:157][227]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.51.43:209][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.11.10-22.51.43:219][227]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.51.43:220][227]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2022.11.10-22.51.43:220][227]LogFileHelpers: Loading map 'Hard_Level_BallGame_3' took 0.768
+[2022.11.10-22.51.47:472][466]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.47:472][466]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.47:474][466]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3:PersistentLevel.HealthItem_C_0
+[2022.11.10-22.51.47:476][466]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3:PersistentLevel.HealthItem_C_0
+[2022.11.10-22.51.50:143][625]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.50:143][625]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.51.50:145][625]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3:PersistentLevel.HealthItem_C_1
+[2022.11.10-22.51.50:147][625]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3:PersistentLevel.HealthItem_C_1
+[2022.11.10-22.51.58:921][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.10-22.51.59:106][135]LogSavePackage: Moving output files for package: /Game/Maps/Hard_Level_BallGame_3
+[2022.11.10-22.51.59:106][135]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_31E5EA277417CFD72AEC6E6A9C2CDEFEE.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_3.umap'
+[2022.11.10-22.51.59:136][135]AssetCheck: New page: Asset Save: Hard_Level_BallGame_3
+[2022.11.10-22.51.59:136][135]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3
