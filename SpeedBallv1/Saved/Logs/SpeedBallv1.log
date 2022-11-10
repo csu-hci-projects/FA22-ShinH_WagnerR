@@ -2657,3 +2657,318 @@ Recommended: 516.25
 [2022.11.10-22.09.23:873][ 56]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_3DA62ECA9479AC3D68C644781D3E5B2CF.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_3.umap'
 [2022.11.10-22.09.23:913][ 56]AssetCheck: New page: Asset Save: Hard_Level_BallGame_3
 [2022.11.10-22.09.23:913][ 56]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3
+[2022.11.10-22.09.54:895][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.11.10-22.09.55:069][839]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1
+[2022.11.10-22.09.55:069][839]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.09.55:069][839]LightingResults: New page: Lighting Build
+[2022.11.10-22.09.55:070][839]LoadErrors: New page: Loading map: Hard_Level_BallGame_1.umap
+[2022.11.10-22.09.55:082][839]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.09.55:082][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.09.55:083][839]MapCheck: New page: Map Check
+[2022.11.10-22.09.55:083][839]LightingResults: New page: Lighting Build
+[2022.11.10-22.09.55:113][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.09.55:135][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.11.10-22.09.55:145][839]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.09.55:147][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.09.55:174][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.11.10-22.09.55:198][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.10-22.09.55:233][839]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_Level_BallGame_1'.
+[2022.11.10-22.09.55:233][839]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.09.55:233][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.09.55:233][839]LogAIModule: Creating AISystem for world Hard_Level_BallGame_1
+[2022.11.10-22.09.55:431][839]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.09.55:466][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.11.10-22.09.55:479][839]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.09.55:480][839]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.157ms to complete.
+[2022.11.10-22.09.55:480][839]LogFileHelpers: Loading map 'Hard_Level_BallGame_1' took 0.410
+[2022.11.10-22.09.57:014][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.10-22.09.57:270][926]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2
+[2022.11.10-22.09.57:270][926]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.09.57:270][926]LightingResults: New page: Lighting Build
+[2022.11.10-22.09.57:270][926]LoadErrors: New page: Loading map: Hard_Level_BallGame_2.umap
+[2022.11.10-22.09.57:275][926]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.09.57:275][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.09.57:275][926]MapCheck: New page: Map Check
+[2022.11.10-22.09.57:275][926]LightingResults: New page: Lighting Build
+[2022.11.10-22.09.57:300][926]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.09.57:310][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.10-22.09.57:314][926]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.09.57:316][926]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.09.57:346][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.10-22.09.57:370][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.10-22.09.57:425][926]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_Level_BallGame_2'.
+[2022.11.10-22.09.57:425][926]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.09.57:425][926]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.09.57:426][926]LogAIModule: Creating AISystem for world Hard_Level_BallGame_2
+[2022.11.10-22.09.57:745][926]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.09.57:785][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.10-22.09.57:796][926]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.09.57:797][926]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.136ms to complete.
+[2022.11.10-22.09.57:797][926]LogFileHelpers: Loading map 'Hard_Level_BallGame_2' took 0.527
+[2022.11.10-22.10.00:989][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.10-22.10.01:034][111]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Medium_Level_BallGame_1.Medium_Level_BallGame_1
+[2022.11.10-22.10.01:034][111]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Medium_Level_BallGame_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.10.01:034][111]LightingResults: New page: Lighting Build
+[2022.11.10-22.10.01:034][111]LoadErrors: New page: Loading map: Medium_Level_BallGame_1.umap
+[2022.11.10-22.10.01:081][111]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.10.01:081][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.10.01:081][111]MapCheck: New page: Map Check
+[2022.11.10-22.10.01:081][111]LightingResults: New page: Lighting Build
+[2022.11.10-22.10.01:102][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.10.01:118][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.10-22.10.01:122][111]LogWorld: UWorld::CleanupWorld for Medium_Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.10.01:123][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.10.01:147][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.10-22.10.01:171][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.10-22.10.01:179][111]LogAudio: Display: Audio Device (ID: 1) registered with world 'Medium_Level_BallGame_1'.
+[2022.11.10-22.10.01:179][111]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.10.01:179][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.10.01:180][111]LogAIModule: Creating AISystem for world Medium_Level_BallGame_1
+[2022.11.10-22.10.01:213][111]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.10.01:240][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.11.10-22.10.01:253][111]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.10.01:253][111]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2022.11.10-22.10.01:253][111]LogFileHelpers: Loading map 'Medium_Level_BallGame_1' took 0.220
+[2022.11.10-22.10.04:323][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.11.10-22.10.04:484][291]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Hard_Level_BallGame_1.Hard_Level_BallGame_1
+[2022.11.10-22.10.04:484][291]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.10.04:485][291]LightingResults: New page: Lighting Build
+[2022.11.10-22.10.04:485][291]LoadErrors: New page: Loading map: Hard_Level_BallGame_1.umap
+[2022.11.10-22.10.04:486][291]LogWorld: UWorld::CleanupWorld for Medium_Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.10.04:487][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.10.04:487][291]MapCheck: New page: Map Check
+[2022.11.10-22.10.04:487][291]LightingResults: New page: Lighting Build
+[2022.11.10-22.10.04:509][291]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.10.04:512][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.10-22.10.04:516][291]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.10.04:517][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.10.04:544][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.10-22.10.04:568][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.11.10-22.10.04:605][291]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_Level_BallGame_1'.
+[2022.11.10-22.10.04:605][291]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.10.04:605][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.10.04:606][291]LogAIModule: Creating AISystem for world Hard_Level_BallGame_1
+[2022.11.10-22.10.04:805][291]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.10.04:840][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.11.10-22.10.04:851][291]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.10.04:852][291]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2022.11.10-22.10.04:852][291]LogFileHelpers: Loading map 'Hard_Level_BallGame_1' took 0.367
+[2022.11.10-22.10.10:541][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.10-22.10.10:794][624]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2
+[2022.11.10-22.10.10:794][624]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.10.10:794][624]LightingResults: New page: Lighting Build
+[2022.11.10-22.10.10:794][624]LoadErrors: New page: Loading map: Hard_Level_BallGame_2.umap
+[2022.11.10-22.10.10:830][624]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.10.10:830][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.10.10:830][624]MapCheck: New page: Map Check
+[2022.11.10-22.10.10:830][624]LightingResults: New page: Lighting Build
+[2022.11.10-22.10.10:853][624]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.10.10:862][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.10-22.10.10:865][624]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.10.10:867][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.10.10:896][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.11.10-22.10.10:917][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.11.10-22.10.10:968][624]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_Level_BallGame_2'.
+[2022.11.10-22.10.10:968][624]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.10.10:968][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.10.10:968][624]LogAIModule: Creating AISystem for world Hard_Level_BallGame_2
+[2022.11.10-22.10.11:243][624]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.10.11:280][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.10-22.10.11:290][624]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.10.11:290][624]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.113ms to complete.
+[2022.11.10-22.10.11:290][624]LogFileHelpers: Loading map 'Hard_Level_BallGame_2' took 0.496
+[2022.11.10-22.10.25:434][449]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/KillVolume.KillVolume_C
+[2022.11.10-22.10.25:434][449]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/KillVolume.KillVolume_C
+[2022.11.10-22.10.25:435][449]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/KillVolume.KillVolume as actor: KillVolume_C /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2:PersistentLevel.KillVolume_C_0
+[2022.11.10-22.10.25:436][449]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/KillVolume.KillVolume as actor: KillVolume_C /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2:PersistentLevel.KillVolume_C_0
+[2022.11.10-22.10.33:421][926]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/KillVolume.KillVolume_C
+[2022.11.10-22.10.33:421][926]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/KillVolume.KillVolume_C
+[2022.11.10-22.10.33:422][926]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/KillVolume.KillVolume as actor: KillVolume_C /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2:PersistentLevel.KillVolume_C_1
+[2022.11.10-22.10.33:423][926]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/KillVolume.KillVolume as actor: KillVolume_C /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2:PersistentLevel.KillVolume_C_1
+[2022.11.10-22.11.08:102][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.11.10-22.11.08:198][980]LogSavePackage: Moving output files for package: /Game/Maps/Hard_Level_BallGame_2
+[2022.11.10-22.11.08:199][980]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_2442DC4954DC0B2627623FB9DC561EF66.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_2.umap'
+[2022.11.10-22.11.08:225][980]AssetCheck: New page: Asset Save: Hard_Level_BallGame_2
+[2022.11.10-22.11.08:225][980]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_2.Hard_Level_BallGame_2
+[2022.11.10-22.11.15:581][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.10-22.11.15:967][418]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3
+[2022.11.10-22.11.15:968][418]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.11.15:968][418]LightingResults: New page: Lighting Build
+[2022.11.10-22.11.15:968][418]LoadErrors: New page: Loading map: Hard_Level_BallGame_3.umap
+[2022.11.10-22.11.15:975][418]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.11.15:975][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.11.15:975][418]MapCheck: New page: Map Check
+[2022.11.10-22.11.15:975][418]LightingResults: New page: Lighting Build
+[2022.11.10-22.11.15:999][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.11.16:017][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.11.10-22.11.16:021][418]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.11.16:026][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.11.16:057][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.10-22.11.16:079][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.10-22.11.16:160][418]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_Level_BallGame_3'.
+[2022.11.10-22.11.16:160][418]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.11.16:160][418]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.11.16:160][418]LogAIModule: Creating AISystem for world Hard_Level_BallGame_3
+[2022.11.10-22.11.16:633][418]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.11.16:679][418]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.11.10-22.11.16:689][418]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.11.16:690][418]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2022.11.10-22.11.16:690][418]LogFileHelpers: Loading map 'Hard_Level_BallGame_3' took 0.722
+[2022.11.10-22.11.22:208][738]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/KillVolume.KillVolume_C
+[2022.11.10-22.11.22:208][738]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/KillVolume.KillVolume_C
+[2022.11.10-22.11.22:209][738]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/KillVolume.KillVolume as actor: KillVolume_C /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3:PersistentLevel.KillVolume_C_0
+[2022.11.10-22.11.22:209][738]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/KillVolume.KillVolume as actor: KillVolume_C /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3:PersistentLevel.KillVolume_C_0
+[2022.11.10-22.11.25:392][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/KillVolume.KillVolume_C
+[2022.11.10-22.11.25:392][928]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/KillVolume.KillVolume_C
+[2022.11.10-22.11.25:394][928]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/KillVolume.KillVolume as actor: KillVolume_C /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3:PersistentLevel.KillVolume_C_1
+[2022.11.10-22.11.25:394][928]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/KillVolume.KillVolume as actor: KillVolume_C /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3:PersistentLevel.KillVolume_C_1
+[2022.11.10-22.11.35:194][507]Cmd: DELETE
+[2022.11.10-22.11.35:194][507]Cmd: ACTOR DELETE
+[2022.11.10-22.11.35:205][507]LogEditorActor: Deleted Actor: KillVolume_C
+[2022.11.10-22.11.35:231][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.10-22.11.35:236][507]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.11.10-22.11.39:254][745]Cmd: TRANSACTION UNDO
+[2022.11.10-22.11.39:254][745]LogEditorTransaction: Undo Delete Elements
+[2022.11.10-22.11.46:275][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.11.10-22.11.46:438][148]LogSavePackage: Moving output files for package: /Game/Maps/Hard_Level_BallGame_3
+[2022.11.10-22.11.46:439][148]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_35826CC8A4C6215BDB82AC4B53AA8EC98.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_3.umap'
+[2022.11.10-22.11.46:465][148]AssetCheck: New page: Asset Save: Hard_Level_BallGame_3
+[2022.11.10-22.11.46:465][148]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3
+[2022.11.10-22.11.56:020][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.11.10-22.11.56:188][718]LogSavePackage: Moving output files for package: /Game/Maps/Hard_Level_BallGame_3
+[2022.11.10-22.11.56:189][718]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_309EAC6CB4EF6E407CBD994A4AC6E14C2.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_3.umap'
+[2022.11.10-22.11.56:217][718]AssetCheck: New page: Asset Save: Hard_Level_BallGame_3
+[2022.11.10-22.11.56:217][718]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_3.Hard_Level_BallGame_3
+[2022.11.10-22.12.04:291][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.10-22.12.04:666][199]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_BallGame_3.Level_BallGame_3
+[2022.11.10-22.12.04:666][199]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.12.04:666][199]LightingResults: New page: Lighting Build
+[2022.11.10-22.12.04:666][199]LoadErrors: New page: Loading map: Level_BallGame_3.umap
+[2022.11.10-22.12.04:677][199]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.12.04:677][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.12.04:678][199]MapCheck: New page: Map Check
+[2022.11.10-22.12.04:678][199]LightingResults: New page: Lighting Build
+[2022.11.10-22.12.04:699][199]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.12.04:728][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.10-22.12.04:733][199]LogWorld: UWorld::CleanupWorld for Level_BallGame_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.12.04:737][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.12.04:770][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.11.10-22.12.04:793][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.10-22.12.04:858][199]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_BallGame_3'.
+[2022.11.10-22.12.04:858][199]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.12.04:858][199]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.12.04:858][199]LogAIModule: Creating AISystem for world Level_BallGame_3
+[2022.11.10-22.12.05:303][199]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.12.05:347][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.11.10-22.12.05:357][199]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.12.05:357][199]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2022.11.10-22.12.05:357][199]LogFileHelpers: Loading map 'Level_BallGame_3' took 0.692
+[2022.11.10-22.12.07:755][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.11.10-22.12.07:815][334]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_BallGame_4.Level_BallGame_4
+[2022.11.10-22.12.07:815][334]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.12.07:816][334]LightingResults: New page: Lighting Build
+[2022.11.10-22.12.07:816][334]LoadErrors: New page: Loading map: Level_BallGame_4.umap
+[2022.11.10-22.12.07:883][334]LogWorld: UWorld::CleanupWorld for Level_BallGame_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.12.07:883][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.12.07:884][334]MapCheck: New page: Map Check
+[2022.11.10-22.12.07:884][334]LightingResults: New page: Lighting Build
+[2022.11.10-22.12.07:914][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.12.07:935][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.10-22.12.07:940][334]LogWorld: UWorld::CleanupWorld for Level_BallGame_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.12.07:940][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.12.07:963][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2022.11.10-22.12.07:984][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.10-22.12.07:998][334]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_BallGame_4'.
+[2022.11.10-22.12.07:998][334]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.12.07:998][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.12.07:999][334]LogAIModule: Creating AISystem for world Level_BallGame_4
+[2022.11.10-22.12.08:052][334]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.12.08:077][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.10-22.12.08:087][334]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.12.08:087][334]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2022.11.10-22.12.08:087][334]LogFileHelpers: Loading map 'Level_BallGame_4' took 0.272
+[2022.11.10-22.12.56:696][175]Cmd: DUPLICATE
+[2022.11.10-22.12.56:696][175]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.08:716][879]Cmd: DUPLICATE
+[2022.11.10-22.13.08:716][879]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.10:796][992]Cmd: DUPLICATE
+[2022.11.10-22.13.10:796][992]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.13:660][152]Cmd: DUPLICATE
+[2022.11.10-22.13.13:660][152]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.18:334][420]Cmd: DUPLICATE
+[2022.11.10-22.13.18:334][420]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.21:620][601]Cmd: DUPLICATE
+[2022.11.10-22.13.21:620][601]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.26:058][854]Cmd: DUPLICATE
+[2022.11.10-22.13.26:058][854]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.29:861][ 71]Cmd: DUPLICATE
+[2022.11.10-22.13.29:861][ 71]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.33:729][291]Cmd: DUPLICATE
+[2022.11.10-22.13.33:729][291]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.36:140][425]Cmd: DUPLICATE
+[2022.11.10-22.13.36:140][425]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.40:047][646]Cmd: DUPLICATE
+[2022.11.10-22.13.40:047][646]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.43:397][834]Cmd: DUPLICATE
+[2022.11.10-22.13.43:397][834]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.47:753][ 83]Cmd: DUPLICATE
+[2022.11.10-22.13.47:753][ 83]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.53:059][387]Cmd: DUPLICATE
+[2022.11.10-22.13.53:059][387]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.13.57:120][618]Cmd: DUPLICATE
+[2022.11.10-22.13.57:120][618]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.00:549][811]Cmd: DUPLICATE
+[2022.11.10-22.14.00:549][811]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.03:756][991]Cmd: DUPLICATE
+[2022.11.10-22.14.03:756][991]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.10:640][390]Cmd: DUPLICATE
+[2022.11.10-22.14.10:640][390]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.14:423][603]Cmd: DUPLICATE
+[2022.11.10-22.14.14:423][603]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.20:555][957]Cmd: DUPLICATE
+[2022.11.10-22.14.20:555][957]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.24:796][199]Cmd: DUPLICATE
+[2022.11.10-22.14.24:796][199]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.28:378][401]Cmd: DUPLICATE
+[2022.11.10-22.14.28:378][401]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.32:738][651]Cmd: DUPLICATE
+[2022.11.10-22.14.32:738][651]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.36:261][850]Cmd: DUPLICATE
+[2022.11.10-22.14.36:261][850]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.38:766][989]Cmd: DUPLICATE
+[2022.11.10-22.14.38:766][989]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.41:306][131]Cmd: DUPLICATE
+[2022.11.10-22.14.41:306][131]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.44:166][289]Cmd: DUPLICATE
+[2022.11.10-22.14.44:166][289]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.48:948][565]Cmd: DUPLICATE
+[2022.11.10-22.14.48:948][565]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.53:624][832]Cmd: DUPLICATE
+[2022.11.10-22.14.53:625][832]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.14.58:413][103]Cmd: DUPLICATE
+[2022.11.10-22.14.58:413][103]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.15.04:207][435]Cmd: DUPLICATE
+[2022.11.10-22.15.04:207][435]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.15.51:670][203]Cmd: DUPLICATE
+[2022.11.10-22.15.51:670][203]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.15.59:055][625]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level_BallGame_4.Level_BallGame_4:PersistentLevel.Level_BallGame_4
+[2022.11.10-22.15.59:055][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.16.08:699][174]BlueprintLog: New page: Compile Level_BallGame_4
+[2022.11.10-22.16.08:944][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.11.10-22.16.09:563][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_BallGame_4" FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.10-22.16.09:591][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.11.10-22.16.09:662][208]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_4
+[2022.11.10-22.16.09:663][208]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Level_BallGame_4DFBCE2A14B995703EED84DB19176BC62.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap'
+[2022.11.10-22.16.09:676][208]LogFileHelpers: Saving map 'Level_BallGame_4' took 0.114
+[2022.11.10-22.16.09:689][208]AssetCheck: New page: Asset Save: Level_BallGame_4
+[2022.11.10-22.16.09:689][208]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_4.Level_BallGame_4
+[2022.11.10-22.16.10:773][273]LogSlate: Window 'Level_BallGame' being destroyed
+[2022.11.10-22.16.10:779][273]LogSlate: Window 'Level_BallGame' being destroyed
+[2022.11.10-22.16.10:784][273]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.16.10:784][273]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.16.12:535][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_BallGame_4" FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.10-22.16.12:561][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.10-22.16.12:654][372]LogSavePackage: Moving output files for package: /Game/Maps/Level_BallGame_4
+[2022.11.10-22.16.12:655][372]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Level_BallGame_4E4B4398A49E29B5AB4D1D6949A160E9B.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_4.umap'
+[2022.11.10-22.16.12:682][372]AssetCheck: New page: Asset Save: Level_BallGame_4
+[2022.11.10-22.16.12:682][372]LogContentValidation: Display: Validating World /Game/Maps/Level_BallGame_4.Level_BallGame_4
