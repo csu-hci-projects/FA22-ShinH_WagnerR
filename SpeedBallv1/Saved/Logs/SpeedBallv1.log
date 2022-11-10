@@ -3479,3 +3479,140 @@ Recommended: 516.25
 [2022.11.10-22.28.14:194][888]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Medium_Level_BallGame_48701E0874E654B1D9E9BCEAA196FFC36.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Medium_Level_BallGame_4.umap'
 [2022.11.10-22.28.14:220][888]AssetCheck: New page: Asset Save: Medium_Level_BallGame_4
 [2022.11.10-22.28.14:220][888]LogContentValidation: Display: Validating World /Game/Maps/Medium_Level_BallGame_4.Medium_Level_BallGame_4
+[2022.11.10-22.28.41:951][233]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.10-22.28.41:951][233]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.10-22.28.42:591][270]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.10-22.28.42:592][270]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.10-22.28.43:238][308]LogContentBrowser: Deferred new asset file creation: Medium_Level_BallGame_5
+[2022.11.10-22.28.43:246][308]LogContentBrowser: Creating deferred item: Medium_Level_BallGame_5
+[2022.11.10-22.28.43:259][309]LogContentBrowser: Renaming the item being created (Deferred Item: Medium_Level_BallGame_5).
+[2022.11.10-22.28.44:719][397]LogContentBrowser: Attempting asset rename: Medium_Level_BallGame_5 -> Medium_Level_BallGame_5
+[2022.11.10-22.28.44:837][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.11.10-22.28.45:166][397]LogContentBrowser: End creating deferred item Medium_Level_BallGame_5
+[2022.11.10-22.28.49:370][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.10-22.28.50:474][642]LogSlate: Window 'Save Content' being destroyed
+[2022.11.10-22.28.50:509][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.28.50:894][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.11.10-22.28.51:018][642]LogSavePackage: Moving output files for package: /Game/Maps/Medium_Level_BallGame_5
+[2022.11.10-22.28.51:018][642]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Medium_Level_BallGame_50501C74D4E36D623052D79830B33460C.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Medium_Level_BallGame_5.umap'
+[2022.11.10-22.28.51:245][642]LogFileHelpers: Saving map 'Medium_Level_BallGame_5' took 0.739
+[2022.11.10-22.28.51:252][642]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Medium_Level_BallGame_5.Medium_Level_BallGame_5
+[2022.11.10-22.28.51:252][642]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Medium_Level_BallGame_5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.28.51:252][642]LightingResults: New page: Lighting Build
+[2022.11.10-22.28.51:252][642]LoadErrors: New page: Loading map: Medium_Level_BallGame_5.umap
+[2022.11.10-22.28.51:262][642]LogWorld: UWorld::CleanupWorld for Medium_Level_BallGame_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.28.51:262][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.28.51:262][642]MapCheck: New page: Map Check
+[2022.11.10-22.28.51:262][642]LightingResults: New page: Lighting Build
+[2022.11.10-22.28.51:289][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.28.51:314][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.10-22.28.51:323][642]LogWorld: UWorld::CleanupWorld for Medium_Level_BallGame_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.28.51:326][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.28.51:359][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.11.10-22.28.51:382][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.11.10-22.28.51:457][642]LogAudio: Display: Audio Device (ID: 1) registered with world 'Medium_Level_BallGame_5'.
+[2022.11.10-22.28.51:457][642]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.28.51:457][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.28.51:457][642]LogAIModule: Creating AISystem for world Medium_Level_BallGame_5
+[2022.11.10-22.28.51:833][642]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.28.51:880][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.10-22.28.51:891][642]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.28.51:892][642]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.139ms to complete.
+[2022.11.10-22.28.51:892][642]LogFileHelpers: Loading map 'Medium_Level_BallGame_5' took 0.639
+[2022.11.10-22.28.51:908][642]AssetCheck: New page: Asset Save: Medium_Level_BallGame_5
+[2022.11.10-22.28.51:908][642]LogContentValidation: Display: Validating World /Game/Maps/Medium_Level_BallGame_5.Medium_Level_BallGame_5
+[2022.11.10-22.30.22:457][206]Cmd: DUPLICATE
+[2022.11.10-22.30.22:457][206]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.30.25:151][355]Cmd: DUPLICATE
+[2022.11.10-22.30.25:151][355]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.30.27:462][483]Cmd: DUPLICATE
+[2022.11.10-22.30.27:462][483]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.30.31:308][703]Cmd: DUPLICATE
+[2022.11.10-22.30.31:308][703]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.30.32:908][786]Cmd: DUPLICATE
+[2022.11.10-22.30.32:908][786]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.30.42:356][332]Cmd: DUPLICATE
+[2022.11.10-22.30.42:356][332]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.30.45:471][508]Cmd: DUPLICATE
+[2022.11.10-22.30.45:471][508]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.30.47:325][608]Cmd: DUPLICATE
+[2022.11.10-22.30.47:325][608]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.30.49:768][743]Cmd: DUPLICATE
+[2022.11.10-22.30.49:768][743]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.30.55:237][ 56]Cmd: DUPLICATE
+[2022.11.10-22.30.55:237][ 56]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.30.58:092][212]Cmd: DUPLICATE
+[2022.11.10-22.30.58:092][212]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.00:117][322]Cmd: DUPLICATE
+[2022.11.10-22.31.00:117][322]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.03:732][528]Cmd: DUPLICATE
+[2022.11.10-22.31.03:732][528]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.09:610][862]Cmd: DUPLICATE
+[2022.11.10-22.31.09:610][862]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.12:611][ 31]Cmd: DUPLICATE
+[2022.11.10-22.31.12:611][ 31]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.14:730][148]Cmd: DUPLICATE
+[2022.11.10-22.31.14:730][148]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.17:943][327]Cmd: DUPLICATE
+[2022.11.10-22.31.17:943][327]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.19:304][397]Cmd: DUPLICATE
+[2022.11.10-22.31.19:304][397]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.22:172][556]Cmd: DUPLICATE
+[2022.11.10-22.31.22:172][556]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.24:023][655]Cmd: DUPLICATE
+[2022.11.10-22.31.24:023][655]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.27:747][865]Cmd: DUPLICATE
+[2022.11.10-22.31.27:747][865]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.29:051][932]Cmd: DUPLICATE
+[2022.11.10-22.31.29:051][932]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.30:157][987]Cmd: DUPLICATE
+[2022.11.10-22.31.30:157][987]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.32:106][ 92]Cmd: DUPLICATE
+[2022.11.10-22.31.32:106][ 92]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.34:344][214]Cmd: DUPLICATE
+[2022.11.10-22.31.34:345][214]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.37:777][401]Cmd: DUPLICATE
+[2022.11.10-22.31.37:777][401]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.44:890][808]Cmd: DUPLICATE
+[2022.11.10-22.31.44:890][808]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.46:866][915]Cmd: DUPLICATE
+[2022.11.10-22.31.46:866][915]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.48:972][ 29]Cmd: DUPLICATE
+[2022.11.10-22.31.48:972][ 29]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.51:784][186]Cmd: DUPLICATE
+[2022.11.10-22.31.51:784][186]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.54:448][330]Cmd: DUPLICATE
+[2022.11.10-22.31.54:448][330]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.57:396][495]Cmd: DUPLICATE
+[2022.11.10-22.31.57:396][495]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.31.59:602][616]Cmd: DUPLICATE
+[2022.11.10-22.31.59:602][616]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.01:403][712]Cmd: DUPLICATE
+[2022.11.10-22.32.01:403][712]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.05:180][924]Cmd: DUPLICATE
+[2022.11.10-22.32.05:180][924]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.07:009][ 20]Cmd: DUPLICATE
+[2022.11.10-22.32.07:009][ 20]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.08:576][102]Cmd: DUPLICATE
+[2022.11.10-22.32.08:576][102]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.10:356][197]Cmd: DUPLICATE
+[2022.11.10-22.32.10:356][197]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.12:067][288]Cmd: DUPLICATE
+[2022.11.10-22.32.12:067][288]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.19:352][702]Cmd: DUPLICATE
+[2022.11.10-22.32.19:352][702]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.21:945][843]Cmd: DUPLICATE
+[2022.11.10-22.32.21:945][843]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.23:670][931]Cmd: DUPLICATE
+[2022.11.10-22.32.23:670][931]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.26:841][110]Cmd: DUPLICATE
+[2022.11.10-22.32.26:842][110]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.29:670][264]Cmd: DUPLICATE
+[2022.11.10-22.32.29:670][264]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.31:748][377]Cmd: DUPLICATE
+[2022.11.10-22.32.31:748][377]Cmd: ACTOR DUPLICATE
+[2022.11.10-22.32.41:139][909]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.10-22.32.41:344][909]LogSavePackage: Moving output files for package: /Game/Maps/Medium_Level_BallGame_5
+[2022.11.10-22.32.41:345][909]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Medium_Level_BallGame_5500D31D74A974D0A6D26CDA969747B9B.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Medium_Level_BallGame_5.umap'
+[2022.11.10-22.32.41:373][909]AssetCheck: New page: Asset Save: Medium_Level_BallGame_5
+[2022.11.10-22.32.41:373][909]LogContentValidation: Display: Validating World /Game/Maps/Medium_Level_BallGame_5.Medium_Level_BallGame_5
