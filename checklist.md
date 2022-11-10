@@ -15,8 +15,8 @@
 - [x] 5 levels
 
 # Winning and Losing
-- [ ] Way to win
-  - [ ] reach the end of the last level
+- [x] Way to win
+  - [x] reach the end of the last level
 - [ ] Way to lose
   - [ ] Game is over when you lose all your lives
     - [ ] restart from Level 1
@@ -35,7 +35,7 @@
 - [x] set respawn point with full health
 
 # Game difficulty
-- [ ] easy / medium / hard
+- [x] easy / medium / hard
 
 # Progression
 - [ ] Progression UI on the screen
