@@ -3616,3 +3616,182 @@ Recommended: 516.25
 [2022.11.10-22.32.41:345][909]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Medium_Level_BallGame_5500D31D74A974D0A6D26CDA969747B9B.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Medium_Level_BallGame_5.umap'
 [2022.11.10-22.32.41:373][909]AssetCheck: New page: Asset Save: Medium_Level_BallGame_5
 [2022.11.10-22.32.41:373][909]LogContentValidation: Display: Validating World /Game/Maps/Medium_Level_BallGame_5.Medium_Level_BallGame_5
+[2022.11.10-22.34.10:744][288]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.10-22.34.10:744][288]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.10-22.34.11:681][343]LogContentBrowser: Deferred new asset file creation: Hard_Level_BallGame_4
+[2022.11.10-22.34.11:691][343]LogContentBrowser: Creating deferred item: Hard_Level_BallGame_4
+[2022.11.10-22.34.11:707][344]LogContentBrowser: Renaming the item being created (Deferred Item: Hard_Level_BallGame_4).
+[2022.11.10-22.34.13:320][441]LogContentBrowser: Attempting asset rename: Hard_Level_BallGame_4 -> Hard_Level_BallGame_4
+[2022.11.10-22.34.13:491][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.11.10-22.34.13:967][441]LogContentBrowser: End creating deferred item Hard_Level_BallGame_4
+[2022.11.10-22.34.15:778][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.10-22.34.17:331][547]LogSlate: Window 'Save Content' being destroyed
+[2022.11.10-22.34.17:367][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.34.17:883][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.10-22.34.18:053][547]LogSavePackage: Moving output files for package: /Game/Maps/Hard_Level_BallGame_4
+[2022.11.10-22.34.18:053][547]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_45506A1D74C604416D5778EB4C8CDCA84.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_4.umap'
+[2022.11.10-22.34.18:373][547]LogFileHelpers: Saving map 'Hard_Level_BallGame_4' took 1.008
+[2022.11.10-22.34.18:379][547]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Hard_Level_BallGame_4.Hard_Level_BallGame_4
+[2022.11.10-22.34.18:379][547]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-22.34.18:380][547]LightingResults: New page: Lighting Build
+[2022.11.10-22.34.18:380][547]LoadErrors: New page: Loading map: Hard_Level_BallGame_4.umap
+[2022.11.10-22.34.18:393][547]LogWorld: UWorld::CleanupWorld for Medium_Level_BallGame_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.34.18:394][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.34.18:394][547]MapCheck: New page: Map Check
+[2022.11.10-22.34.18:394][547]LightingResults: New page: Lighting Build
+[2022.11.10-22.34.18:424][547]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-22.34.18:455][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.11.10-22.34.18:465][547]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.34.18:469][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.34.18:472][547]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-22.34.18:474][547]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-22.34.18:519][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.11.10-22.34.18:545][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.10-22.34.18:627][547]LogAudio: Display: Audio Device (ID: 1) registered with world 'Hard_Level_BallGame_4'.
+[2022.11.10-22.34.18:627][547]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-22.34.18:627][547]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-22.34.18:627][547]LogAIModule: Creating AISystem for world Hard_Level_BallGame_4
+[2022.11.10-22.34.19:145][547]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-22.34.19:193][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.11.10-22.34.19:204][547]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-22.34.19:204][547]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.115ms to complete.
+[2022.11.10-22.34.19:204][547]LogFileHelpers: Loading map 'Hard_Level_BallGame_4' took 0.825
+[2022.11.10-22.34.19:220][547]AssetCheck: New page: Asset Save: Hard_Level_BallGame_4
+[2022.11.10-22.34.19:220][547]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_4.Hard_Level_BallGame_4
+[2022.11.10-22.36.49:749][322]Cmd: DELETE
+[2022.11.10-22.36.49:749][322]Cmd: ACTOR DELETE
+[2022.11.10-22.36.49:766][322]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.36.49:868][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.10-22.36.49:877][322]LogEditorActor: Deleted 1 Actors (0.128 secs)
+[2022.11.10-22.36.52:125][437]Cmd: DELETE
+[2022.11.10-22.36.52:125][437]Cmd: ACTOR DELETE
+[2022.11.10-22.36.52:138][437]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.36.52:164][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.10-22.36.52:167][437]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.11.10-22.36.54:347][552]Cmd: DELETE
+[2022.11.10-22.36.54:347][552]Cmd: ACTOR DELETE
+[2022.11.10-22.36.54:359][552]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.36.54:384][552]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.10-22.36.54:387][552]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.11.10-22.36.57:456][716]Cmd: DELETE
+[2022.11.10-22.36.57:456][716]Cmd: ACTOR DELETE
+[2022.11.10-22.36.57:468][716]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.36.57:495][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.10-22.36.57:497][716]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.11.10-22.37.10:221][444]Cmd: DELETE
+[2022.11.10-22.37.10:222][444]Cmd: ACTOR DELETE
+[2022.11.10-22.37.10:234][444]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.37.10:268][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.10-22.37.10:277][444]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2022.11.10-22.37.14:458][675]Cmd: TRANSACTION UNDO
+[2022.11.10-22.37.14:458][675]LogEditorTransaction: Undo Clicking on Elements
+[2022.11.10-22.37.17:433][823]Cmd: DELETE
+[2022.11.10-22.37.17:433][823]Cmd: ACTOR DELETE
+[2022.11.10-22.37.17:445][823]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.37.17:472][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.10-22.37.17:475][823]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.11.10-22.37.19:658][935]Cmd: DELETE
+[2022.11.10-22.37.19:658][935]Cmd: ACTOR DELETE
+[2022.11.10-22.37.19:670][935]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.37.19:696][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.10-22.37.19:699][935]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.11.10-22.37.28:297][428]Cmd: DELETE
+[2022.11.10-22.37.28:297][428]Cmd: ACTOR DELETE
+[2022.11.10-22.37.28:309][428]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.37.28:334][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.10-22.37.28:337][428]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.11.10-22.37.39:895][ 61]Cmd: DELETE
+[2022.11.10-22.37.39:895][ 61]Cmd: ACTOR DELETE
+[2022.11.10-22.37.39:906][ 61]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.37.39:935][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.11.10-22.37.39:941][ 61]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.11.10-22.37.42:521][197]Cmd: DELETE
+[2022.11.10-22.37.42:521][197]Cmd: ACTOR DELETE
+[2022.11.10-22.37.42:532][197]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.37.42:560][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.11.10-22.37.42:562][197]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.11.10-22.38.25:311][702]Cmd: DELETE
+[2022.11.10-22.38.25:311][702]Cmd: ACTOR DELETE
+[2022.11.10-22.38.25:323][702]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.38.25:352][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.11.10-22.38.25:357][702]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.11.10-22.38.27:646][822]Cmd: DELETE
+[2022.11.10-22.38.27:646][822]Cmd: ACTOR DELETE
+[2022.11.10-22.38.27:656][822]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.38.27:682][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.10-22.38.27:685][822]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.11.10-22.38.58:260][595]Cmd: TRANSACTION UNDO
+[2022.11.10-22.38.58:260][595]LogEditorTransaction: Undo Move Elements
+[2022.11.10-22.40.15:476][111]Cmd: DELETE
+[2022.11.10-22.40.15:476][111]Cmd: ACTOR DELETE
+[2022.11.10-22.40.15:490][111]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.15:575][111]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.10-22.40.15:584][111]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2022.11.10-22.40.17:776][225]Cmd: DELETE
+[2022.11.10-22.40.17:776][225]Cmd: ACTOR DELETE
+[2022.11.10-22.40.17:788][225]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.17:813][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.10-22.40.17:815][225]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.11.10-22.40.19:921][335]Cmd: DELETE
+[2022.11.10-22.40.19:921][335]Cmd: ACTOR DELETE
+[2022.11.10-22.40.19:931][335]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.19:956][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.11.10-22.40.19:959][335]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.11.10-22.40.22:367][464]Cmd: DELETE
+[2022.11.10-22.40.22:367][464]Cmd: ACTOR DELETE
+[2022.11.10-22.40.22:378][464]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.22:403][464]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.10-22.40.22:406][464]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.11.10-22.40.25:106][609]Cmd: DELETE
+[2022.11.10-22.40.25:106][609]Cmd: ACTOR DELETE
+[2022.11.10-22.40.25:116][609]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.25:143][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.11.10-22.40.25:145][609]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.11.10-22.40.27:919][758]Cmd: DELETE
+[2022.11.10-22.40.27:919][758]Cmd: ACTOR DELETE
+[2022.11.10-22.40.27:929][758]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.27:955][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.11.10-22.40.27:957][758]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.11.10-22.40.44:886][740]Cmd: DELETE
+[2022.11.10-22.40.44:886][740]Cmd: ACTOR DELETE
+[2022.11.10-22.40.44:898][740]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.44:931][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.11.10-22.40.44:939][740]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.11.10-22.40.47:135][855]Cmd: DELETE
+[2022.11.10-22.40.47:135][855]Cmd: ACTOR DELETE
+[2022.11.10-22.40.47:145][855]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.47:172][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.11.10-22.40.47:175][855]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.11.10-22.40.49:493][976]Cmd: DELETE
+[2022.11.10-22.40.49:493][976]Cmd: ACTOR DELETE
+[2022.11.10-22.40.49:504][976]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.49:531][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.11.10-22.40.49:533][976]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2022.11.10-22.40.51:459][ 80]Cmd: DELETE
+[2022.11.10-22.40.51:459][ 80]Cmd: ACTOR DELETE
+[2022.11.10-22.40.51:469][ 80]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.51:495][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.11.10-22.40.51:498][ 80]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.11.10-22.40.53:885][208]Cmd: DELETE
+[2022.11.10-22.40.53:885][208]Cmd: ACTOR DELETE
+[2022.11.10-22.40.53:895][208]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.53:922][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.11.10-22.40.53:924][208]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.11.10-22.40.57:062][373]Cmd: DELETE
+[2022.11.10-22.40.57:062][373]Cmd: ACTOR DELETE
+[2022.11.10-22.40.57:075][373]LogEditorActor: Deleted Actor: Spike_C
+[2022.11.10-22.40.57:105][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.10-22.40.57:108][373]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2022.11.10-22.42.49:258][916]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.42.49:258][916]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.42.49:259][916]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_4.Hard_Level_BallGame_4:PersistentLevel.HealthItem_C_0
+[2022.11.10-22.42.49:261][916]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_4.Hard_Level_BallGame_4:PersistentLevel.HealthItem_C_0
+[2022.11.10-22.42.52:600][114]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.42.52:600][114]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/HealthItem.HealthItem_C
+[2022.11.10-22.42.52:603][114]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_4.Hard_Level_BallGame_4:PersistentLevel.HealthItem_C_1
+[2022.11.10-22.42.52:604][114]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/HealthItem.HealthItem as actor: HealthItem_C /Game/Maps/Hard_Level_BallGame_4.Hard_Level_BallGame_4:PersistentLevel.HealthItem_C_1
+[2022.11.10-22.42.58:756][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.10-22.42.58:893][473]LogSavePackage: Moving output files for package: /Game/Maps/Hard_Level_BallGame_4
+[2022.11.10-22.42.58:894][473]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Hard_Level_BallGame_4B193705E4E43267976A00AAE30FE7485.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Hard_Level_BallGame_4.umap'
+[2022.11.10-22.42.58:922][473]AssetCheck: New page: Asset Save: Hard_Level_BallGame_4
+[2022.11.10-22.42.58:922][473]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_4.Hard_Level_BallGame_4
