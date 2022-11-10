@@ -4798,3 +4798,81 @@ Recommended: 516.25
 [2022.11.10-23.21.22:557][188]LogFileHelpers: Saving map 'Hard_Level_BallGame_5' took 0.401
 [2022.11.10-23.21.22:570][188]AssetCheck: New page: Asset Save: Hard_Level_BallGame_5
 [2022.11.10-23.21.22:570][188]LogContentValidation: Display: Validating World /Game/Maps/Hard_Level_BallGame_5.Hard_Level_BallGame_5
+[2022.11.10-23.21.54:697][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.11.10-23.25.01:212][282]LogEditorClassViewer: Warning: Class /Game/SuperGrid/TutorialLevel/Utility/Misc/Shake_Landing_Weak.Shake_Landing_Weak_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.10-23.25.01:212][282]LogEditorClassViewer: Warning: Class /Game/SuperGrid/TutorialLevel/Utility/Misc/Shake_Landing_Normal.Shake_Landing_Normal_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.10-23.25.01:212][282]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.10-23.25.06:121][282]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.10-23.25.06:128][282]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.10-23.25.06:135][282]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.10-23.25.06:149][283]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.10-23.25.17:940][986]LogContentBrowser: Attempting asset rename: NewBlueprint -> SaveScore
+[2022.11.10-23.25.17:949][986]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.10-23.25.23:397][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SaveScore.SaveScore
+[2022.11.10-23.25.23:397][303]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-23.25.39:155][219]LogSlate: Took 0.004409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.10-23.26.09:780][233]BlueprintLog: New page: Compile SaveScore
+[2022.11.10-23.26.09:834][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.10-23.26.17:435][687]BlueprintLog: New page: Compile SaveScore
+[2022.11.10-23.26.17:482][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.10-23.26.17:967][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SaveScore" FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Blueprints/SaveScore.uasset" SILENT=true
+[2022.11.10-23.26.17:970][713]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveScore
+[2022.11.10-23.26.17:970][713]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/SaveScoreB1F4A523416FD8B7B442F2B448908165.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Blueprints/SaveScore.uasset'
+[2022.11.10-23.26.17:983][713]AssetCheck: New page: Asset Save: SaveScore
+[2022.11.10-23.26.17:983][713]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SaveScore.SaveScore
+[2022.11.10-23.26.43:497][ 81]BlueprintLog: New page: Compile SaveScore
+[2022.11.10-23.26.43:544][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.11.10-23.26.44:424][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/SaveScore" FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Blueprints/SaveScore.uasset" SILENT=true
+[2022.11.10-23.26.44:425][131]LogSavePackage: Moving output files for package: /Game/Blueprints/SaveScore
+[2022.11.10-23.26.44:426][131]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/SaveScoreCCFF1FBD4201E93CB91C56AC892BCE31.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Blueprints/SaveScore.uasset'
+[2022.11.10-23.26.44:438][131]AssetCheck: New page: Asset Save: SaveScore
+[2022.11.10-23.26.44:438][131]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SaveScore.SaveScore
+[2022.11.10-23.26.49:519][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.11.10-23.26.49:558][423]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Level_BallGame_1.Level_BallGame_1
+[2022.11.10-23.26.49:558][423]Cmd: MAP LOAD FILE="../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Content/Maps/Level_BallGame_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.10-23.26.49:558][423]LightingResults: New page: Lighting Build
+[2022.11.10-23.26.49:558][423]LoadErrors: New page: Loading map: Level_BallGame_1.umap
+[2022.11.10-23.26.49:601][423]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-23.26.49:601][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-23.26.49:648][423]LogWorld: UWorld::CleanupWorld for Hard_Level_BallGame_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-23.26.49:648][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-23.26.49:649][423]MapCheck: New page: Map Check
+[2022.11.10-23.26.49:649][423]LightingResults: New page: Lighting Build
+[2022.11.10-23.26.49:689][423]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.10-23.26.49:741][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.11.10-23.26.49:753][423]LogWorld: UWorld::CleanupWorld for Level_BallGame_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-23.26.49:754][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-23.26.49:796][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.11.10-23.26.49:837][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.11.10-23.26.49:847][423]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_BallGame_1'.
+[2022.11.10-23.26.49:847][423]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.10-23.26.49:848][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-23.26.49:848][423]LogAIModule: Creating AISystem for world Level_BallGame_1
+[2022.11.10-23.26.49:878][423]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.10-23.26.49:921][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.11.10-23.26.49:931][423]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.10-23.26.49:931][423]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.12ms to complete.
+[2022.11.10-23.26.49:931][423]LogFileHelpers: Loading map 'Level_BallGame_1' took 0.373
+[2022.11.10-23.26.52:609][576]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level_BallGame_1.Level_BallGame_1:PersistentLevel.Level_BallGame_1
+[2022.11.10-23.26.52:610][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-23.27.23:638][399]LogEditorClassViewer: Warning: Class /Game/SuperGrid/TutorialLevel/Utility/Misc/Shake_Landing_Weak.Shake_Landing_Weak_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.10-23.27.23:638][399]LogEditorClassViewer: Warning: Class /Game/SuperGrid/TutorialLevel/Utility/Misc/Shake_Landing_Normal.Shake_Landing_Normal_C has parent /Script/Engine.CameraShake, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.10-23.27.23:638][399]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.10-23.32.53:242][429]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/HealthItem.HealthItem
+[2022.11.10-23.32.53:243][429]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-23.33.05:935][165]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-23.33.05:935][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-23.33.11:792][510]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Hud.Hud
+[2022.11.10-23.33.11:792][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-23.33.11:800][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.10-23.33.12:140][510]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.10-23.33.12:140][510]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.11.10-23.33.17:134][802]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-23.33.17:134][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-23.33.17:144][802]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.11.10-23.33.17:144][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.10-23.36.49:844][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.11.10-23.36.49:868][886]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Level_BallGame_1_Auto2
+[2022.11.10-23.36.49:869][886]LogSavePackage: Moving '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Level_BallGame_1_Auto2B95DB09F4C9A446A50125BBF997ED95C.tmp' to '../../../../../../Users/rachw/ShinH_WagnerR/SpeedBallv1/Saved/Autosaves/Game/Maps/Level_BallGame_1_Auto2.umap'
+[2022.11.10-23.36.49:875][886]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level_BallGame_1' took 0.088
+[2022.11.10-23.36.49:875][886]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
